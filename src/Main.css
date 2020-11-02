@@ -1,0 +1,11 @@
+.row {
+  display: flex;
+}
+
+.section_taches {
+  display: flex;
+  flex-direction: column;
+  height: 78.8vh;
+  width: 90vw;
+  background-color: #3d3939;
+}
